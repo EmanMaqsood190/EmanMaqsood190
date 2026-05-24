@@ -1,6 +1,6 @@
-# Hi there, I'm Eman! 
+# Eman Maqsood 
 
-### 🎓 Computer Science Student | Future Product Leader & Tech Consultant
+###  Computer Science Student | Future Product Leader & Tech Consultant
 
 **Core Focus:** Technical Architecture • Data Analytics • User-Centric Product Strategy
 
@@ -11,11 +11,13 @@
 
 ##  Featured Projects
 
-###  [Traffic Sign Recognition System](https://github.com/EmanMaqsood190/Traffic-sign-Recognition-using-Computer-Vision)
+##  Featured Projects
+
+###  <a href="https://github.com/EmanMaqsood190/Traffic-sign-Recognition-using-Computer-Vision" style="color: inherit; text-decoration: none;">Traffic Sign Recognition System</a>
 A rule-based Computer Vision application built using **Python and OpenCV**. It processes images via **HSV color space segmentation** and uses **geometric contour analysis** to accurately detect and classify traffic signs in real-time. This project highlights a strong product foundation in translating core data processing pipelines into intuitive, real-time functional features.
 
-###  [Red Wrong – Interactive Multiplayer Game](https://github.com/EmanMaqsood190/Red-Wrong--OOP)
-A high-stakes, competitive multiplayer game featuring precise time-tracking algorithms and quick-response gameplay logic. This project showcases strong user experience (UX) planning, rapid feature iteration, and structured algorithmic execution.
+###  <a href="https://github.com/EmanMaqsood190/Red-Wrong--OOP.git" style="color: inherit; text-decoration: none;">Red Wrong – Interactive Multiplayer Game</a>
+An interactive, competitive multiplayer game engineered using **Object-Oriented Programming (OOP)** principles. This project showcases structured system design, clean class hierarchies, encapsulation, and real-time state management—demonstrating a strong technical foundation for managing complex software product architectures.
 
 ##  Skills & Expertise
 
