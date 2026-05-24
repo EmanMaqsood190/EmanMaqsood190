@@ -9,7 +9,6 @@
 * **Product Strategy:** High-impact ideation, feature iteration mapping, and creative problem-solving.
 * **Cross-Functional Alignment:** Structured communication, team coordination, and project lifecycles.
 
-##  Featured Projects
 
 ##  Featured Projects
 
