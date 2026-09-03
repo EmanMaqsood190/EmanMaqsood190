@@ -27,10 +27,10 @@
     <td width="50%" style="vertical-align: top;">
       <h3>📂 The Explorer's Log</h3>
       <ul>
-        <li>🎓 <b>CS Undergrad</b> @ 3.75 CGPA</li>
-        <li>💡 <b>Passions:</b> Computer Vision, Full-Stack, Product Strategy</li>
-        <li>🛠️ <b>Focus:</b> Agralyticx AI & Vision Systems</li>
-        <li>🌐 <b>Polyglot:</b> English, Urdu, Korean (Learning)</li>
+        <li>🎓 <b>CS Undergrad</b></li>
+        <li>💡 <b>Passions:</b> Full-Stack Development, Product Strategy</li>
+        <li>🛠️ <b>Focus:</b> Agralyticx AI & System Architecture</li>
+        <li>🌐 <b>Polyglot:</b> English, Urdu, Turkish (Learning)</li>
       </ul>
     </td>
     <td width="50%" style="vertical-align: top;">
@@ -55,8 +55,8 @@ Coffee Level      : [██████░░░░░░░░░░] 40%
   <tr>
     <td width="50%">
       <p align="center"><strong>🌱 Agralyticx</strong></p>
-      <p>AI platform for precision agriculture using edge Computer Vision and Speech Recognition.</p>
-      <code>Python</code> <code>OpenCV</code> <code>PyTorch</code>
+      <p>AI platform for precision agriculture and smart farm data insights.</p>
+      <code>Python</code> <code>AI/ML</code> <code>Full-Stack</code>
     </td>
     <td width="50%">
       <p align="center"><strong>🎬 MoodVie</strong></p>
@@ -67,8 +67,8 @@ Coffee Level      : [██████░░░░░░░░░░] 40%
   <tr>
     <td width="50%">
       <p align="center"><strong>🚥 Traffic Sign Recognition</strong></p>
-      <p>Real-time CV system utilizing HSV segmentation for high-accuracy detection.</p>
-      <code>Python</code> <code>OpenCV</code> <code>HSV</code>
+      <p>Image processing system utilizing color-space segmentation for detection.</p>
+      <code>Python</code> <code>HSV</code> <code>Data Analysis</code>
     </td>
     <td width="50%">
       <p align="center"><strong>🎮 RED WRONG</strong></p>
@@ -93,8 +93,7 @@ Coffee Level      : [██████░░░░░░░░░░] 40%
 </p>
 
 <p align="left">
-  <b>Frameworks & AI:</b><br>
-  <img src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=5C3EE8" />
+  <b>Frameworks & Tools:</b><br>
   <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" />
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
   <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
@@ -102,7 +101,7 @@ Coffee Level      : [██████░░░░░░░░░░] 40%
 </p>
 
 <p align="left">
-  <b>Cloud & Analytics:</b><br>
+  <b>Cloud, Databases & Design:</b><br>
   <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" />
   <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
