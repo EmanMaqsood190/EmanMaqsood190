@@ -1,26 +1,34 @@
 <div align="center">
 
 <!-- Header Section -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Eman+Maqsood+✦;Tech+Explorer+%26+Developer;Building+for+the+Future" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Eman+Maqsood+✦;Tech+Explorer+%26+Builder;Bridging+Gaps+With+Ideas" alt="Typing SVG" />
 
 <p align="center">
   <strong>"Building cool things. Caring about where it all leads."</strong>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-Exploring_The_Digital_Frontier-6d28d9?style=for-the-badge&logo=rocket&logoColor=white" alt="Status" />
+  <img src="https://img.shields.io/badge/Status-Connecting_Dots_%26_Building-6d28d9?style=for-the-badge&logo=compass&logoColor=white" alt="Status" />
 </p>
 
 ---
 
-<!-- The Explorer's Log (About Me) & System Metrics -->
+<!-- Narrative Intro Section -->
+<p align="center">
+  <i>Part builder, part tech explorer — a wanderer who knows exactly what to do.</i><br>
+  I think of ideas that bridge the gap between complex problems and practical solutions, connecting technology, vision, and real-world impact.
+</p>
+
+---
+
+<!-- The Explorer's Log & System Metrics -->
 <table border="0" width="100%">
   <tr border="0">
     <td width="50%" style="vertical-align: top;">
       <h3>📂 The Explorer's Log</h3>
       <ul>
         <li>🎓 <b>CS Undergrad</b> @ 3.75 CGPA</li>
-        <li>💡 <b>Passions:</b> CV, Full-Stack, Product Strategy</li>
+        <li>💡 <b>Passions:</b> Computer Vision, Full-Stack, Product Strategy</li>
         <li>🛠️ <b>Focus:</b> Agralyticx AI & Vision Systems</li>
         <li>🌐 <b>Polyglot:</b> English, Urdu, Korean (Learning)</li>
       </ul>
@@ -86,7 +94,7 @@ Coffee Level      : [██████░░░░░░░░░░] 40%
 
 <p align="left">
   <b>Frameworks & AI:</b><br>
-  <img src="https://img.shields.io/badge/opencv-%23 white.svg?style=for-the-badge&logo=opencv&logoColor=5C3EE8" />
+  <img src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=5C3EE8" />
   <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" />
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
   <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
