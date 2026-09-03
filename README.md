@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Header Section -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Eman+Maqsood+✦;Tech+Explorer+%26+Builder;Bridging+Gaps+With+Ideas" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Eman+Maqsood+✦;Product+Manager+%26+Tech+Explorer;Bridging+Gaps+With+Ideas" alt="Typing SVG" />
 
 <p align="center">
   <strong>"Building cool things. Caring about where it all leads."</strong>
@@ -16,7 +16,7 @@
 <!-- Narrative Intro Section -->
 <p align="center">
   <i>Part builder, part tech explorer — a wanderer who knows exactly what to do.</i><br>
-  I think of ideas that bridge the gap between complex problems and practical solutions, connecting technology, vision, and real-world impact.
+  I think of ideas that bridge the gap between complex problems and practical solutions, connecting technology, product vision, and real-world impact.
 </p>
 
 ---
@@ -28,8 +28,8 @@
       <h3>📂 The Explorer's Log</h3>
       <ul>
         <li>🎓 <b>CS Undergrad</b></li>
-        <li>💡 <b>Passions:</b> Full-Stack Development, Product Strategy</li>
-        <li>🛠️ <b>Focus:</b> Agralyticx AI & System Architecture</li>
+        <li>💡 <b>Passions:</b> Product Thinking, Travel & Exploration, System Architecture</li>
+        <li>🛠️ <b>Focus:</b> Product Management & Digital Experiences</li>
         <li>🌐 <b>Polyglot:</b> English, Urdu, Turkish (Learning)</li>
       </ul>
     </td>
@@ -56,11 +56,11 @@ Coffee Level      : [██████░░░░░░░░░░] 40%
     <td width="50%">
       <p align="center"><strong>🌱 Agralyticx</strong></p>
       <p>AI platform for precision agriculture and smart farm data insights.</p>
-      <code>Python</code> <code>AI/ML</code> <code>Full-Stack</code>
+      <code>Product Strategy</code> <code>UI/UX</code> <code>AI Concept</code>
     </td>
     <td width="50%">
       <p align="center"><strong>🎬 MoodVie</strong></p>
-      <p>Full-stack mood-based recommendation engine powered by Flask and TMDB API.</p>
+      <p>Mood-based recommendation engine powered by Flask and TMDB API.</p>
       <code>Flask</code> <code>MongoDB</code> <code>JavaScript</code>
     </td>
   </tr>
@@ -84,6 +84,13 @@ Coffee Level      : [██████░░░░░░░░░░] 40%
 <h3>🌌 Tech Constellation</h3>
 
 <p align="left">
+  <b>Product & Design:</b><br>
+  <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" />
+  <img src="https://img.shields.io/badge/Product_Strategy-6d28d9?style=for-the-badge&logo=compass&logoColor=white" />
+</p>
+
+<p align="left">
   <b>Languages & Core:</b><br>
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
@@ -95,16 +102,7 @@ Coffee Level      : [██████░░░░░░░░░░] 40%
 <p align="left">
   <b>Frameworks & Tools:</b><br>
   <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
-  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-</p>
-
-<p align="left">
-  <b>Cloud, Databases & Design:</b><br>
   <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
 </p>
