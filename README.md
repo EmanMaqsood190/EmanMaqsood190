@@ -1,11 +1,11 @@
 <div align="center">
 
-<!-- AESTHETIC TOP BANNER -->
-<img src="https://capsule-render.vercel.app/render?type=kaka&color=auto&height=250&section=header&text=EMAN'S%20UNIVERSE&fontSize=80&animation=fadeIn&fontAlignY=40&desc=Digital%20Wanderer%20•%20Tech%20Explorer&descSize=20&descAlignY=60" width="100%" />
+<!-- RELIABLE COSMIC BANNER -->
+<img src="https://raw.githubusercontent.com/MaySperra/MaySperra/main/assets/banner.gif" width="100%" alt="Cosmic Banner" />
 
 <br>
 
-<!-- THE "WHOAMI" TYPING SECTION -->
+<!-- TERMINAL STYLE TYPING -->
 <h1>
   <img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&size=35&duration=3000&pause=1000&color=A970FF&center=true&vCenter=true&width=600&lines=System+Status:+Online;Building+Cool+Things;Exploring+the+Unknown;Lost+in+the+Terminal" alt="Typing SVG" />
 </h1>
@@ -16,19 +16,19 @@
 
 ---
 
-### 🛰️ Explorer's Status Report
-<table align="center">
+### 🛰️ The Explorer's Log
+<table align="center" border="0">
   <tr>
-    <td width="50%" style="vertical-align: top;">
+    <td width="55%" style="vertical-align: top; border: none;">
       <br>
-      <b>I’m Eman</b>, a tech explorer and digital wanderer. I like breaking systems down to understand the "why" and building them back better to see the "what if." 
+      <b>I’m Eman</b>, a tech explorer and digital wanderer. I don't just "manage" or "code"—I wander through logic to build digital experiences. 
       <br><br>
       🔭 <b>Current Sector:</b> Deep learning & Aesthetic UI <br>
-      🛸 <b>Fuel Source:</b> Dark Roast Coffee <br>
+      🛸 <b>Fuel Source:</b> 10+ Hours Screen Time <br>
       📡 <b>Signal:</b> Wandering, but never lost.
     </td>
-    <td width="50%">
-      <!-- LO-FI WANDERER IMAGE -->
+    <td width="45%" style="border: none;">
+      <!-- HIGH QUALITY LO-FI WANDERER GIF -->
       <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHpueG56Z3B6Z3B6Z3B6Z3B6Z3B6Z3B6Z3B6Z3B6Z3B6Z3B6JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZ25vcmUmY3Q9Zw/L13K9LIOH9XvSAnmU3/giphy.gif" width="100%" />
     </td>
   </tr>
@@ -36,23 +36,26 @@
 
 ---
 
-### 📊 System Metrics (The Real Stats)
-*Since the contribution graph is for mortals, here is my Explorer Graph:*
+### 📊 System Metrics (The Explorer's Reality)
+*Forget the contribution graph; here is what my dashboard actually looks like:*
 
-<p align="center">
-<b>Daily Screen Time:</b> [ ████████████████████ ] 10h/avg <br>
-<b>Curiosity Level:</b> [ ████████████████░░░ ] 92% <br>
-<b>Tabs Open:</b> [ ████████████████████ ] ∞ <br>
-<b>Coffee Level:</b> [ ████████░░░░░░░░░░░ ] 40% (Refill Required)
+<p align="left">
+&nbsp;&nbsp;<b>Daily Screen Time:</b> [ ████████████████████ ] 10h/avg <br>
+&nbsp;&nbsp;<b>Curiosity Level:</b> [ ████████████████░░░ ] 92% <br>
+&nbsp;&nbsp;<b>Tabs Open:</b> [ ████████████████████ ] ∞ <br>
+&nbsp;&nbsp;<b>Coffee Level:</b> [ ████████░░░░░░░░░░░ ] 40% (Refill Required)
 </p>
 
+<br>
+
+<!-- TOP LANGUAGES CARD (RELIABLE THEME) -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR_GITHUB_USERNAME]&layout=compact&theme=vision-ff&hide_border=true&title_color=A970FF" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR_GITHUB_USERNAME]&layout=compact&theme=tokyonight&hide_border=true&title_color=A970FF" />
 </p>
 
 ---
 
-### 🛠️ The Artifacts (Tech Stack)
+### 🛠️ The Tech Constellation
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,py,react,nextjs,tailwind,nodejs,mongodb,figma,ps,git,docker,aws&theme=dark" />
 </p>
