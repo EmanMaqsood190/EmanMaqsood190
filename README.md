@@ -15,7 +15,7 @@
 
 <!-- Narrative Intro Section -->
 <p align="center">
-  <i>Part builder, part tech explorer — a wanderer who knows exactly what to do.</i><br>
+  <i>Part builder, part tech explorer; a wanderer who knows exactly what to do.</i><br>
   I think of ideas that bridge the gap between complex problems and practical solutions, connecting technology, product vision, and real-world impact.
 </p>
 
