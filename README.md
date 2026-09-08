@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Header Section -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Eman+Maqsood+✦;Product+Manager+%26+Tech+Explorer;Bridging+Gaps+With+Ideas" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=000000&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Eman+Maqsood+✦;Product+Manager+%26+Tech+Explorer;Bridging+Gaps+With+Ideas" alt="Typing SVG" />
 
 <p align="center">
   <strong>"Building cool things. Caring about where it all leads."</strong>
