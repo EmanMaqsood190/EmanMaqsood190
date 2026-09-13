@@ -78,7 +78,7 @@ Coffee Level      : [██████░░░░░░░░░░] 40%
 </p>
 
 <p align="center">
-  <i>Being a CS student doesn't mean my whole world is code — I'm just as into wandering, exploring, and chasing curiosity outside the terminal.</i>
+  <i>Being a CS student doesn't mean my whole world is code I'm just as into wandering, exploring, and chasing curiosity outside the terminal.</i>
 </p>
 
 <table border="0" width="100%">
@@ -90,9 +90,9 @@ Coffee Level      : [██████░░░░░░░░░░] 40%
     <td width="50%" style="vertical-align: top;">
       <h4>✈️ Places I'm Plotting</h4>
       <ul>
-        <li>🗼 Japan</li>
-        <li>🏔️ Switzerland</li>
-        <li>🏛️ Turkey</li>
+        <li>🗼 Turkey</li>
+        <li>🏔️ Edinburgh</li>
+        <li>🏛️ Japan</li>
         <li>🌆 Basically anywhere with good food and a view</li>
       </ul>
     </td>
@@ -112,7 +112,7 @@ Currently procrastinating on: booking literally any of the above
 </p>
 
 <p align="center">
-  <sub>😄 Kidding aside — if any airline, travel agency, or generous stranger wants to sponsor my very first trip, my inbox (and blank passport) are wide open.</sub>
+  <sub>😄 Kidding aside, if any airline, travel agency, or generous stranger wants to sponsor my very first trip, my inbox (and blank passport) are wide open.</sub>
 </p>
 
 ---
