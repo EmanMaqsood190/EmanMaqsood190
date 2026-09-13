@@ -48,35 +48,25 @@ Coffee Level      : [██████░░░░░░░░░░] 40%
 
 ---
 
-<!-- Featured Projects Grid -->
-<h3>🏗️ Featured Blueprints</h3>
+<!-- Cat Person Section -->
+<h3>🐾 Confirmed Cat Person (Unlicensed, Unfortunately)</h3>
 
-<table width="100%">
-  <tr>
-    <td width="50%">
-      <p align="center"><strong>🌱 Agralyticx</strong></p>
-      <p>AI platform for precision agriculture and smart farm data insights.</p>
-      <code>Product Strategy</code> <code>UI/UX</code> <code>AI Concept</code>
-    </td>
-    <td width="50%">
-      <p align="center"><strong>🎬 MoodVie</strong></p>
-      <p>Mood-based recommendation engine powered by Flask and TMDB API.</p>
-      <code>Flask</code> <code>MongoDB</code> <code>JavaScript</code>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <p align="center"><strong>🚥 Traffic Sign Recognition</strong></p>
-      <p>Image processing system utilizing color-space segmentation for detection.</p>
-      <code>Python</code> <code>HSV</code> <code>Data Analysis</code>
-    </td>
-    <td width="50%">
-      <p align="center"><strong>🎮 RED WRONG</strong></p>
-      <p>C++ Game Engine with adaptive scoring and real-time multiplayer leaderboards.</p>
-      <code>C++</code> <code>Data Structures</code> <code>OOP</code>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <i>I am, scientifically and emotionally, a cat person.</i><br>
+  I have never owned a cat. My parents said no. The dream remains theoretical.<br>
+  So here are the cats I would have, drawn into existence since real ones aren't allowed yet.
+</p>
+
+<p align="center">
+  <img src="./profile-images/cat-orange.png" width="150" />
+  <img src="./profile-images/cat-gray.png" width="150" />
+  <img src="./profile-images/cat-black.png" width="150" />
+  <img src="./profile-images/cat-calico.png" width="150" />
+</p>
+
+<p align="center">
+  <sub>Left to right: the one who'd knock things off tables, the one who judges silently, the one who's secretly the softest, and the one running the whole household.</sub>
+</p>
 
 ---
 
