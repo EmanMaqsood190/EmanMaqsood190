@@ -70,6 +70,53 @@ Coffee Level      : [██████░░░░░░░░░░] 40%
 
 ---
 
+<!-- Explorer Side Section -->
+<h3>🧭 CS by Degree, Explorer by Heart</h3>
+
+<p align="center">
+  <img src="./profile-images/compass-suitcase.png" width="420" />
+</p>
+
+<p align="center">
+  <i>Being a CS student doesn't mean my whole world is code — I'm just as into wandering, exploring, and chasing curiosity outside the terminal.</i>
+</p>
+
+<table border="0" width="100%">
+  <tr>
+    <td width="50%" style="vertical-align: top;">
+      <h4>🗺️ Places I've Wandered</h4>
+      <p>Nowhere yet. My passport is tragically blank and purely theoretical at this point.</p>
+    </td>
+    <td width="50%" style="vertical-align: top;">
+      <h4>✈️ Places I'm Plotting</h4>
+      <ul>
+        <li>🗼 Japan</li>
+        <li>🏔️ Switzerland</li>
+        <li>🏛️ Turkey</li>
+        <li>🌆 Basically anywhere with good food and a view</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+<h4>🔎 Currently</h4>
+<pre align="left">
+Currently learning     : AI from scratch (no libraries, the hard way)
+Currently exploring    : new languages & new places (on paper, for now)
+Currently obsessed with: the idea of finally using that blank passport
+Currently procrastinating on: booking literally any of the above
+</pre>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Sponsorship-Open_for_Business-6d28d9?style=for-the-badge&logo=airplane&logoColor=white" />
+</p>
+
+<p align="center">
+  <sub>😄 Kidding aside — if any airline, travel agency, or generous stranger wants to sponsor my very first trip, my inbox (and blank passport) are wide open.</sub>
+</p>
+
+---
+
 <!-- Tech Constellation -->
 <h3>🌌 Tech Constellation</h3>
 
